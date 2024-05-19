@@ -18,12 +18,12 @@ Setuping the app on your machine
   1. download the repo
   
   ```bash
-  git clone https://github.com/AmrEL3taaL/mesba7
+  git https://github.com/Mohamedwaelfaro/genieBot
   ```
   
-  2. Run the installer file named "mesba7"
+  2. Run the installer file named 
   ```bash
-  ./mesba7
+  
   ```
 #### Get your own API key
  3. You will be asked for the api key. to get the key go to : 
