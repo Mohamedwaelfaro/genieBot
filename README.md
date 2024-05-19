@@ -21,10 +21,6 @@ Setuping the app on your machine
   git https://github.com/Mohamedwaelfaro/genieBot
   ```
   
-  2. Run the installer file named 
-  ```bash
-  
-  ```
 #### Get your own API key
  3. You will be asked for the api key. to get the key go to : 
   	 1. [Get API key | Google AI Studio](https://aistudio.google.com/app/apikey)
