@@ -71,7 +71,7 @@ geny What is 5 + 5?
 ```
 ###### output
 ```txt
-Your question is off-topic for this assistant. I can only help with questions about Linux bash commands.
+I'm sorry, i only answer bash commands
 ```
 
 # <p align="center">Genie 🧞 and the project. </p>
