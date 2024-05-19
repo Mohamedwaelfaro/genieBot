@@ -34,18 +34,6 @@ Setuping the app on your machine
   	 
   	Also check the steps on the detailed images below
   <br/><br/><br/><br/>
-  
-  #### detailed images
-    
-    1. click on `Create API KEY` button
-![1](https://github.com/ziadel-kent/genieBot/assets/110328592/8d712415-8f97-4db8-b169-2f984b878e23)
-    
-    2. generate a new project if needed or select a previous google cloud project.
-![2](https://github.com/ziadel-kent/genieBot/assets/110328592/fa94f290-a6bc-48e0-bf14-df4d2e6daee0)
-    
-  
-  
-  4. A Geny will spawn on your machine granting you infinite number of wishes ;)
 
 ## How to use
 all you need is to call `genie` and your wishes will be granted ✨
